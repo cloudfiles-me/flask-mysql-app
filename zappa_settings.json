@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "flask-mysql",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-pgdwd2xq9",
+        "vpc_config" : {
+            "SubnetIds": [ "subnet-6896530f","subnet-7b4cb827" ],
+            "SecurityGroupIds": [ "sg-06cefd00513fda0f4" ]
+        }
+}
+}

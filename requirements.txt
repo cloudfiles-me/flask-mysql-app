@@ -1,0 +1,6 @@
+pip==9.0.3
+flask
+flask-mysql
+request
+zappa
+Werkzeug==0.12
